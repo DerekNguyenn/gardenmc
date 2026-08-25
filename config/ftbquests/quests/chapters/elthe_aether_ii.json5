@@ -1,0 +1,38 @@
+{
+  id: "1C24D47CCF040D53",
+  group: "",
+  order_index: 4,
+  filename: "elthe_aether_ii",
+  always_invisible: true,
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  quests: [
+    {
+      x: 0.5,
+      y: -0.5,
+      id: "69A1459DA49D8DCD",
+      tasks: [
+        {
+          id: "4AEE40AEAF50A702",
+          type: "dimension",
+          icon: {
+            id: "aether_ii:aether_portal_frame",
+            count: 1,
+          },
+          dimension: "aether_ii:aether_holy_isles",
+        },
+      ],
+      rewards: [
+        {
+          id: "541E436B06579660",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

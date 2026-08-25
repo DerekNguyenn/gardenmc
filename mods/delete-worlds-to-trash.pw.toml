@@ -1,0 +1,13 @@
+name = "Delete Worlds To Trash"
+filename = "DeleteWorldsToTrash-v26.1.2-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d1b8acfd70473dac3f7d315c526af1b6bc35907"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7930041
+project-id = 571076

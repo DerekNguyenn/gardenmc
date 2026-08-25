@@ -1,0 +1,13 @@
+name = "Iceberg [Neo/Forge]"
+filename = "Iceberg-26.1.2-neoforge-1.4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46cf777069b906a1b8520eb85220d166149228c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8317643
+project-id = 520110

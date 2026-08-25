@@ -1,0 +1,13 @@
+name = "YUNG's Menu Tweaks (Forge/NeoForge)"
+filename = "YungsMenuTweaks-26.1.2-NeoForge-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5fb21d3eb26e6a505e5d8b90d5605c70990303b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8313863
+project-id = 917285

@@ -1,0 +1,348 @@
+{
+  id: "682486FC3E496F9B",
+  group: "",
+  order_index: 2,
+  icon: {
+    id: "sophisticatedbackpacks:diamond_backpack",
+    count: 1,
+    components: {
+      "sophisticatedcore:number_of_inventory_slots": 108,
+      "sophisticatedcore:number_of_upgrade_slots": 5,
+    },
+  },
+  filename: "storage",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  quests: [
+    {
+      x: -0.5,
+      y: -1.0,
+      preset: "goal",
+      id: "328555BD27C57680",
+      tasks: [
+        {
+          id: "2DAF37A1DA62D733",
+          type: "item",
+          item: {
+            id: "sophisticatedbackpacks:backpack",
+            count: 1,
+            components: {
+              "sophisticatedcore:number_of_inventory_slots": 27,
+              "sophisticatedcore:number_of_upgrade_slots": 1,
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "248EE4C64FBAEECE",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: -0.5,
+      y: -2.5,
+      id: "07EE78046F734774",
+      tasks: [
+        {
+          id: "20F40060A678E8E1",
+          type: "item",
+          item: {
+            id: "sophisticatedbackpacks:advanced_magnet_upgrade",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "297C2475AB92D4F0",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: 0.5,
+      y: -2.0,
+      id: "22787F8A5977E4D1",
+      tasks: [
+        {
+          id: "01C32871ED542466",
+          type: "item",
+          item: {
+            id: "sophisticatedbackpacks:advanced_void_upgrade",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "15E3A66A8219AD88",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: -1.5,
+      y: -2.0,
+      id: "1AE8904DFDB49F62",
+      tasks: [
+        {
+          id: "7C7852926224A04C",
+          type: "item",
+          item: {
+            id: "sophisticatedbackpacks:stack_upgrade_tier_1",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "76F22BC365F1629F",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: -0.5,
+      y: 0.5,
+      id: "15C892E2D984727C",
+      tasks: [
+        {
+          id: "7E1FD911AC3B0031",
+          type: "item",
+          item: {
+            id: "sophisticatedbackpacks:everlasting_upgrade",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "189DB83952588CB2",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: 0.5,
+      y: 0.0,
+      id: "36DCF3F0E824EF1B",
+      tasks: [
+        {
+          id: "43AB664F57AECC68",
+          type: "item",
+          item: {
+            id: "sophisticatedbackpacks:advanced_feeding_upgrade",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6B6157B8B4A7F9C4",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: 1.0,
+      y: -1.0,
+      id: "0661D998CF3577BF",
+      tasks: [
+        {
+          id: "73357CCE7B8BF2C0",
+          type: "item",
+          item: {
+            id: "sophisticatedbackpacks:crafting_upgrade",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4EE43BC3DC981D31",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: -2.0,
+      y: -1.0,
+      id: "635D7AAAB1A449C0",
+      tasks: [
+        {
+          id: "7207CFC4ED857429",
+          type: "item",
+          item: {
+            id: "sophisticated_jei_index:jei_index_upgrade",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "046E1DF0332249BF",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: -1.5,
+      y: 0.0,
+      id: "6433EAD84C6EF47E",
+      tasks: [
+        {
+          id: "2C8996773046C99D",
+          type: "item",
+          item: {
+            id: "sophisticatedbackpacks:advanced_tool_swapper_upgrade",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "24276E5049B97C8F",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: 5.0,
+      y: -1.0,
+      preset: "goal",
+      id: "490BDB2575285903",
+      tasks: [
+        {
+          id: "13F83351920605F7",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(sophisticatedstorage:iron_chest))",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5AA85B5C533B8DDE",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: 3.5,
+      y: -1.0,
+      id: "033924BA39344C15",
+      tasks: [
+        {
+          id: "554B17A4C617AE9A",
+          type: "item",
+          item: {
+            id: "sophisticatedstorage:basic_to_gold_tier_upgrade",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2EF78B0DB03A550D",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: 6.5,
+      y: -1.0,
+      id: "07F24D56DC05074B",
+      tasks: [
+        {
+          id: "40200AC9A5943EF6",
+          type: "item",
+          item: {
+            id: "sophisticatedstorage:stack_upgrade_tier_2",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "25A959D57870E243",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: 5.0,
+      y: 0.5,
+      id: "3611269FA14846B6",
+      tasks: [
+        {
+          id: "2003F99E9454B5EB",
+          type: "item",
+          item: {
+            id: "sophisticatedstorage:controller",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1A5CCD9C481A397B",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+    {
+      x: 5.0,
+      y: -2.5,
+      id: "2646BF2E36641D41",
+      tasks: [
+        {
+          id: "50A10010587D4F41",
+          type: "item",
+          item: {
+            id: "sophisticatedstorageinmotion:storage_minecart",
+            count: 1,
+            components: {
+              "sophisticatedstorageinmotion:storage_item": {
+                id: "sophisticatedstorage:barrel",
+                count: 1,
+                components: {
+                  "sophisticatedstorage:wood_type": "spruce",
+                },
+              },
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "67BC281E5EFE25C8",
+          type: "xp_levels",
+          xp_levels: 3,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

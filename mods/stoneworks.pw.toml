@@ -1,0 +1,13 @@
+name = "Stoneworks"
+filename = "Stoneworks-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34f0b4d7b203aafbb85cc9dfa5d554c72c0ccfe9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7995178
+project-id = 852663

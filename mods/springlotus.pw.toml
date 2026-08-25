@@ -1,0 +1,13 @@
+name = "SpringLotus"
+filename = "springlotus-neoforge-1.2.0+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "978927b7b41b67f5379382d4f0c2409b2b016abb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8606095
+project-id = 1573788

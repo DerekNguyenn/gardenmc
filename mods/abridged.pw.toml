@@ -1,0 +1,13 @@
+name = "Abridged"
+filename = "abridged-2.0.2-neoforge-26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "732ed2d3cb473c5277bbce249b9c1888ee341a47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8327784
+project-id = 948999

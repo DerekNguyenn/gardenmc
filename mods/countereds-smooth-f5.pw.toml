@@ -1,0 +1,13 @@
+name = "Countered's Smooth F5"
+filename = "Smooth F5 v1.3.1-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b28395817e2b850769d7dbb31eb7ea6fca7d484"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8536823
+project-id = 1353266

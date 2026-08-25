@@ -1,0 +1,13 @@
+name = "Global Narration Toggle"
+filename = "globalnarrationtoggle-26.1.2-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e6696d04767b185e5df64668320631c02205af2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7902171
+project-id = 948704

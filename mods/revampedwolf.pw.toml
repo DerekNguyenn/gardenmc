@@ -1,0 +1,13 @@
+name = "RevampedWolf"
+filename = "revampedwolf-26.1.2-25.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fbf139512f683b3c992e3ac2b99f6680781e539"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8209135
+project-id = 399945

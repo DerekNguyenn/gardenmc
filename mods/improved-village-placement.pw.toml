@@ -1,0 +1,13 @@
+name = "Improved Village Placement"
+filename = "improved-village-placement-1.2.0-neoforge-26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33ee5a304ab5fac26c46912998adf24178e723f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8404843
+project-id = 1175325

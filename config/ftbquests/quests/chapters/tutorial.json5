@@ -1,0 +1,194 @@
+{
+  id: "46D470F5BF27A84C",
+  group: "",
+  order_index: 0,
+  icon: {
+    id: "minecraft:spyglass",
+    count: 1,
+  },
+  filename: "tutorial",
+  default_quest_shape: "rsquare",
+  default_hide_dependency_lines: false,
+  quests: [
+    {
+      icon: {
+        id: "minecraft:book",
+        count: 1,
+      },
+      x: -0.5,
+      y: 0.5,
+      hide_until_deps_complete: false,
+      size: 1.5,
+      id: "703EC4B09C06F6E0",
+      tasks: [
+        {
+          id: "43EE8520312AA014",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "5EC8A3FA99393EED",
+          type: "item",
+          item: {
+            id: "minecraft:bread",
+            count: 1,
+          },
+          count: 3,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "ftbquests:book",
+        count: 1,
+      },
+      x: -0.5,
+      y: -1.0,
+      dependencies: [
+        "703EC4B09C06F6E0",
+      ],
+      id: "5DDA51BFE3372769",
+      tasks: [
+        {
+          id: "52C146DEAEF6638B",
+          type: "checkmark",
+        },
+        {
+          id: "2D7021D655006A62",
+          type: "item",
+          item: {
+            id: "minecraft:bread",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "391112DEA0C415FA",
+          type: "item",
+          item: {
+            id: "minecraft:torch",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:player_head",
+        count: 1,
+      },
+      x: 0.5,
+      y: -1.0,
+      dependencies: [
+        "703EC4B09C06F6E0",
+      ],
+      id: "779541A9503D7E57",
+      tasks: [
+        {
+          id: "443FE6A04F66FB7E",
+          type: "checkmark",
+        },
+        {
+          id: "787C0412443B507F",
+          type: "item",
+          item: {
+            id: "minecraft:bread",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "13D06B6AE8F6F925",
+          type: "item",
+          item: {
+            id: "minecraft:cherry_sapling",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "ftblibrary:icon_item",
+        count: 1,
+      },
+      x: -1.5,
+      y: -1.0,
+      dependencies: [
+        "703EC4B09C06F6E0",
+      ],
+      id: "27B307CA1542FFDF",
+      tasks: [
+        {
+          id: "075C44E2D9EFF202",
+          type: "checkmark",
+        },
+        {
+          id: "2E67D179ACC473FA",
+          type: "item",
+          item: {
+            id: "minecraft:bread",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4671190B8CF5EDC8",
+          type: "item",
+          item: {
+            id: "minecraft:lantern",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "sophisticated_jei_index:jei_index_upgrade",
+        count: 1,
+      },
+      x: -1.5,
+      y: -2.5,
+      dependencies: [
+        "27B307CA1542FFDF",
+      ],
+      id: "20BA4CC6E5A78C21",
+      tasks: [
+        {
+          id: "4A2CEB81A2CE53FF",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "ftbquests:custom_icon",
+        count: 1,
+        components: {
+          "ftbquests:icon": "ftblibrary:icons/check",
+        },
+      },
+      x: -0.5,
+      y: -2.5,
+      dependencies: [
+        "20BA4CC6E5A78C21",
+      ],
+      id: "7CF08E6061227F58",
+      tasks: [
+        {
+          id: "6E8542E3E7B1A622",
+          type: "checkmark",
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

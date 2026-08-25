@@ -1,0 +1,13 @@
+name = "Trading Post"
+filename = "TradingPost-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1da0fa5f8a28120c16d4b8f524333a593027b506"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8013610
+project-id = 539057

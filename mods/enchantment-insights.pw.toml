@@ -1,0 +1,13 @@
+name = "Enchantment Insights"
+filename = "EnchantmentInsights-v26.1.2-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac4095aac2ad505e2cddb41c4da4cb7efd1d2f9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8328846
+project-id = 1366848

@@ -1,0 +1,13 @@
+name = "Better Mods Button"
+filename = "BetterModsButton-v26.1.1-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00ef01e24657111619d789e2d89212ea90b74760"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7925234
+project-id = 541584

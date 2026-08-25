@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"terrain_slabs:grass_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:jungle_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

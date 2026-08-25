@@ -1,0 +1,13 @@
+name = "Drippy Early Loading Module"
+filename = "drippyloadingscreen-earlywindow_neoforge_3.1.5_MC_26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d91a4b796dbc4decc9fd337b534616b035533e12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8552924
+project-id = 1390924
