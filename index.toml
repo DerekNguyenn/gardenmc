@@ -10,7 +10,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "7e116ba737249b0fa050950bbfa4c0f61ceb57c0fa7bf34681ac96d801b59421"
+hash = "14f6ef44bd4b9036642fca86ac24fb6aef80109c803be556f9efda862bf86cc7"
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
@@ -2361,6 +2361,31 @@ metafile = true
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "6d0c80fe11a61f5b434027ddb499c0f0c7000ff7cea91cef67e16e6b06ab42f5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "38daf2d9408f3913d148f9cf34c83c94c11650958d729368c6a07c58eb26eb97"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "961c9afcb34a4e028dcc8d7f17236e0863f8cd910195ac63b44fd4c49648c2c3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "6eef08c81e7802151b999330bff6dfccfe5ef1ab1cc152f9a133f829baae0731"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "99360c3fe78e82e1a00828e41239ba619637008c5ba915a1a7b33ef956d73a49"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "d22e1acd3ddb8f4363c297f4452875ddebc3c3a507797e2788326d4d833e9165"
 metafile = true
 
 [[files]]
