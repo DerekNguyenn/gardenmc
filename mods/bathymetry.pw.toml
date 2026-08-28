@@ -1,0 +1,13 @@
+name = "Bathymetry"
+filename = "bathymetry-1.0.1+26.1+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5be549ecce347d28b2a7a0f64875d2c7481c89a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8691273
+project-id = 1656052

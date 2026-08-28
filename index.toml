@@ -1793,6 +1793,11 @@ hash = "49fabddaeb05139aa38b6edce3255f5b07f25b95133c6d7169654fdd92786536"
 metafile = true
 
 [[files]]
+file = "mods/bathymetry.pw.toml"
+hash = "3546e7a3f2c09530150110c27f22a8b6cc102510cd4e630e0ce53f7e83d5aa91"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "234ac509b502e086ed5f631a6d77d8a9f056d6ca629667932b6814a23a56e175"
 metafile = true
@@ -2460,6 +2465,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "29c06b3e0967fc14ae933578876dbb94132f98c89e46449c9f33edf60bb3c762"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "1a1ce093aee0543eb62f8a2e92af4578f523077fcc6664fb6d1ba253d86894f1"
 metafile = true
 
 [[files]]
