@@ -1,0 +1,13 @@
+name = "Bloop Shaders - Official"
+filename = "Bloop-1.7.0-cloud-fix-2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59662615476dbed5597bc0dd5d73bb75ce9a918e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6817545
+project-id = 1257984

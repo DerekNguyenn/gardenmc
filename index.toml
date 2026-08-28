@@ -17,6 +17,16 @@ file = "Garden MC [BMC6 Fork]-v0.zip.bak"
 hash = "9e6a58cf603351715d42e53d80b435e25f95b3814fb9a8289806f446804277db"
 
 [[files]]
+file = "bliss-shader.pw.toml"
+hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
+metafile = true
+
+[[files]]
+file = "bloop-shaders-official.pw.toml"
+hash = "4badeb7216fd13438a30e41bea030baf54657c7741813ca8238ffc9e38900d22"
+metafile = true
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
 metafile = true
