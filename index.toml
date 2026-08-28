@@ -10,7 +10,11 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "14f6ef44bd4b9036642fca86ac24fb6aef80109c803be556f9efda862bf86cc7"
+hash = "2b1f42a55ce456f03ea0028f3ef951717a35154412e5ad3fcfdd5637cf2f489b"
+
+[[files]]
+file = "Garden MC [BMC6 Fork]-v0.zip.bak"
+hash = "9e6a58cf603351715d42e53d80b435e25f95b3814fb9a8289806f446804277db"
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
@@ -1854,6 +1858,11 @@ hash = "397a3f8c8a2812ac296682cac1d9b6f4f129f5b183ead86de8de0fbd1801a5c4"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "55e46e994051517ec92f1f0eac582b80f1ca2653c09fc8182729c5e02bed83ef"
+metafile = true
+
+[[files]]
 file = "mods/citadel-neoforge.pw.toml"
 hash = "6a7cb0f572e043d6bedb47459ed13cb1ab62291663c8614d66c594d64458608b"
 metafile = true
@@ -1996,6 +2005,11 @@ metafile = true
 [[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "c6f1d809023067029e4164bb2b9aba01661dfa00b10d5989b234d279210c6ef4"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "ba37b721250faf02a9b12544be5c3f4feb63454c7166544b954428802396153f"
 metafile = true
 
 [[files]]
@@ -2336,6 +2350,11 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "6cbe5e46e6a6a081dbc65391ea1a27c4c3c5952bf0ad3257fadb5a78bfe874ed"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "39e450d1502d0c475325c4b64f20d98be0c16262b9e249ec5fca94b9dac3d5ed"
 metafile = true
 
 [[files]]
@@ -2791,6 +2810,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "3eb471c55912b9bf770243fe6db8da9e3b38553bd0db36a81f4c7b0422e8a6b3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "40446a66abb7560449079866592294a7c90a05676517faa395c78f450e66c99c"
 metafile = true
 
 [[files]]
