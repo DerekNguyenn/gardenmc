@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/go.imports.xml"
+hash = "00058097e988c933e94302b4b9c663dc075e8e52fae2edfa995b5df0da75a9e7"
+
+[[files]]
 file = ".idea/vcs.xml"
 hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "ade3342a86e1adf206b3ea4d4f4dd02a16a689af48d94c25d5f34b31d3d28e7c"
+hash = "7e116ba737249b0fa050950bbfa4c0f61ceb57c0fa7bf34681ac96d801b59421"
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
@@ -1706,8 +1710,17 @@ file = "config/yungsmenutweaks-neoforge-26_1.toml"
 hash = "f03258dd68fab838e12affe9c56d7a558a808f0803458b657b77acdc84fd4915"
 
 [[files]]
+file = "hs_err_pid17924.log"
+hash = "28b9242d3b889e990038c4c251bce46c4fe909c894fb3c3af89e300236a000ef"
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "d55ff5b3e32e7bb793552ac2feed84e3ac1f92156e2213bd8e3c90b1b48dc9a2"
+metafile = true
+
+[[files]]
+file = "mods/addonslib.pw.toml"
+hash = "d4dccfb67bf35d24a4003187bda1e528f724183d3eb917a5a5ce9b410eab52f7"
 metafile = true
 
 [[files]]
@@ -2323,6 +2336,31 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "6cbe5e46e6a6a081dbc65391ea1a27c4c3c5952bf0ad3257fadb5a78bfe874ed"
+metafile = true
+
+[[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "6a54ec77b5b69d906f4c0310d9955c2b681c9e752abd02ed193274917c2b0248"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "db7e31ee0f5580f839d55b034170b90d05f4b8c205205200bb7bb2d49b43182f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "321f87853f051e88867fc1a6a9311119a6a474458369d0b7e2f4aef02a8d1a9d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "db4d97416c769ba43dece8a986e7a8b12374d9c7e1d311affe3016fed0ad7a58"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "6d0c80fe11a61f5b434027ddb499c0f0c7000ff7cea91cef67e16e6b06ab42f5"
 metafile = true
 
 [[files]]
