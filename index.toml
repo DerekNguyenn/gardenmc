@@ -1813,6 +1813,11 @@ hash = "3546e7a3f2c09530150110c27f22a8b6cc102510cd4e630e0ce53f7e83d5aa91"
 metafile = true
 
 [[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "590247cc5bf9ed61a79957a62357b5deb3eaec9b3c7ecca9e85ea141b949a596"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "234ac509b502e086ed5f631a6d77d8a9f056d6ca629667932b6814a23a56e175"
 metafile = true
@@ -1830,6 +1835,11 @@ metafile = true
 [[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "02494040673f91d31af52f1648f2b44a96d0f46bb0d272127d4e1e1adf55aa3a"
+metafile = true
+
+[[files]]
+file = "mods/betternether-neoforge.pw.toml"
+hash = "f97378c66c4d68b103ce1c4bf5530328193be2978f6d63fe29a720b8567f9159"
 metafile = true
 
 [[files]]
@@ -2810,6 +2820,16 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "a6731499ebea1b1c82bea66e091eb1375e6fc3fab3d10f458d21936d473a613d"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "681e913dc56dd368120eba5b0707953407b6e16357f7a55f38e24b0d8026cf3f"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "1389ba58963bf6030c4de47f836d2d4ed1ef28168e6c48f46e77d03e9f59efaa"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "WunderLib: New Dawn"
+filename = "wunderlib-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd70cf63cee439d2c2445e4b629aabc0df68c738"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8515508
+project-id = 1422273
