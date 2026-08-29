@@ -800,10 +800,6 @@ file = "config/fancymenu/assets/32x32.png"
 hash = "69f3b521c138cd651eb2cb5e105046445249ef1c37a152cc39f1eef100f4d34d"
 
 [[files]]
-file = "config/fancymenu/assets/WildFlower-Collective.json"
-hash = "23f8c15de3fc0131ee8386f29437b2f21c4ff42a6211e4475489a403af26522c"
-
-[[files]]
 file = "config/fancymenu/assets/betterm.png"
 hash = "9e4cd7a5dec75c2d88d1ac5d23e83dbc364aafc37b0873d3ec69c4355b4d5f8d"
 
@@ -870,10 +866,6 @@ hash = "38094395125d966981085e289c8932fe041e648928009b4cfcaef572383ad941"
 [[files]]
 file = "config/fancymenu/assets/performance.png"
 hash = "59976b2901021afd423fee14fa828edeb943925f92ee826fc4c3e103ad91dec7"
-
-[[files]]
-file = "config/fancymenu/assets/screenshot.png"
-hash = "97b7dd1dec55d47ee02fc92c5f4dccb672649a49491c30c71c9744f1979844f9"
 
 [[files]]
 file = "config/fancymenu/assets/wildflower.png"
