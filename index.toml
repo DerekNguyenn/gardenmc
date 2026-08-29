@@ -1898,6 +1898,11 @@ hash = "397a3f8c8a2812ac296682cac1d9b6f4f129f5b183ead86de8de0fbd1801a5c4"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "67c36b12d8bebdf4b1e07db254a3dac8a92153fc4b5937dc3d7ecfa4ed67dfe5"
+metafile = true
+
+[[files]]
 file = "mods/citadel-neoforge.pw.toml"
 hash = "6a7cb0f572e043d6bedb47459ed13cb1ab62291663c8614d66c594d64458608b"
 metafile = true
