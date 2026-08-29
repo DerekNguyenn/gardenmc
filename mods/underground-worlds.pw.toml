@@ -1,0 +1,13 @@
+name = "Underground Worlds"
+filename = "undergroundworlds-neoforge-3.2-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g9fDJQZe/versions/F15s6Kt2/undergroundworlds-neoforge-3.2-26.1.jar"
+hash-format = "sha512"
+hash = "85d87e155232f5f726df6affdea8cced978436248c822c0a4ecb64be65fbde670d05227fdc1ce8f47311fe68f306bec5caa684ee1e48007dea44faa7ca1c611a"
+
+[update]
+[update.modrinth]
+mod-id = "g9fDJQZe"
+version = "F15s6Kt2"
