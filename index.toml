@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/go.imports.xml"
-hash = "00058097e988c933e94302b4b9c663dc075e8e52fae2edfa995b5df0da75a9e7"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "759c5ff6d7f86b66e407b566b13f9105aaff9c5ad31776d220096bce24810443"
-
-[[files]]
 file = "bliss-shader.pw.toml"
 hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
 metafile = true
