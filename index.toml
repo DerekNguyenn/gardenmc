@@ -701,7 +701,7 @@ hash = "a4c80045ed0ffe5540cbb699b908966638d42d5233eec048853d64b30396b0e6"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "b8d982f9f37c37791b8bc8ae8858cb530757c698528b484b31b179ab7c1a246d"
+hash = "dd026261e14382939947a67b1cd7c62b97f36da754876c1363060ce22bf36920"
 
 [[files]]
 file = "config/diagonalblocks-common.toml"
