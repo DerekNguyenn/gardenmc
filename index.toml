@@ -10,7 +10,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "2b1f42a55ce456f03ea0028f3ef951717a35154412e5ad3fcfdd5637cf2f489b"
+hash = "d449cd9b7866f4d07a005702a3ab7e8a40013afd01fbd7458b6db790d7d46fdc"
 
 [[files]]
 file = "Garden MC [BMC6 Fork]-v0.zip.bak"
@@ -1788,6 +1788,11 @@ hash = "01774d3f3afd43867fc1d73a6b578d9c90a3e14f1fea7d59be3db731a539c98a"
 metafile = true
 
 [[files]]
+file = "mods/automodpack.pw.toml"
+hash = "6dadb66a7a0e99754d963b2cff1e40a21e8859fddb60b820600c04dab58d7b21"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "bac6e354977852204f02f38d79678519ed68a1ec785fd3d9b41f4e0628270ed8"
 metafile = true
@@ -1850,6 +1855,11 @@ metafile = true
 [[files]]
 file = "mods/block-runner.pw.toml"
 hash = "eb16142adc70a313cb70ab751c55db352edcf95a7d06c867ee28a2ff587cf8dc"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "00ce18653b4f2932567130cebb29ae448e20202a73b9bdf8f7c5f5a536759745"
 metafile = true
 
 [[files]]
