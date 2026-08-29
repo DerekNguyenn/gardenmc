@@ -2283,6 +2283,11 @@ hash = "08bd1be0954a6470335fb6924743cbab2cd4840bf5e8fd0bc66abffd324814e2"
 metafile = true
 
 [[files]]
+file = "mods/iceandfire-ce.pw.toml"
+hash = "0c471be040587273e6efd0ad18d78b12126f826a62465bffe30a69dc42688100"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "14ad19d769eef6ba4a28d0822a5d7701a52f1818aacab8bf6eec91d9381a4362"
 metafile = true
@@ -2325,6 +2330,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "884bf8847f1e8e3c9b60b122c777f580a57b413eb64b3e1616889a0c54475283"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "826f6cb85d4a0dbf277e38fb0087216d7be264be54b91534ca8953b51b46694c"
 metafile = true
 
 [[files]]
@@ -2815,6 +2825,11 @@ metafile = true
 [[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "83149c0d3593c52a321dc9ed0a68f85f3d535df93b07238db9d0c82d5b64350f"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "351379b5e015733ad8b7326db1481bd017b48b79606ee13908fd9473633617f2"
 metafile = true
 
 [[files]]
