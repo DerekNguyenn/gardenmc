@@ -2073,6 +2073,21 @@ hash = "176213d9b8bc1c0c21858798b5dd19604f3e0fd8edf472c9b2ce14c17517f4a7"
 metafile = true
 
 [[files]]
+file = "mods/dynamictrees-betterend.pw.toml"
+hash = "aa81921ab2be6ffd64fb0582f7a90f2072aa7037dedf88265cfae1d727c19d75"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees-betternether.pw.toml"
+hash = "021c939f99204bd0b48bbeb73fbd94f0c1693671afcdef7b56dd4ef12146fa62"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "909f01e79e377a97f188f9b6d3544329faa7b0d30de2a678efddd921593278ae"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "2814bcb432be556d772c5c6170e3f373dc9d6a9ae0b6c175bd46b037b3b21902"
 metafile = true
