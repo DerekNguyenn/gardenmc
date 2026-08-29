@@ -1838,6 +1838,11 @@ hash = "02494040673f91d31af52f1648f2b44a96d0f46bb0d272127d4e1e1adf55aa3a"
 metafile = true
 
 [[files]]
+file = "mods/betterend-neoforge.pw.toml"
+hash = "0f421aa3456e8d22a86ad319b01fb049af7604087d273d2d8a2b63b6374c7131"
+metafile = true
+
+[[files]]
 file = "mods/betternether-neoforge.pw.toml"
 hash = "f97378c66c4d68b103ce1c4bf5530328193be2978f6d63fe29a720b8567f9159"
 metafile = true
