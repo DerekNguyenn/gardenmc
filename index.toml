@@ -717,7 +717,7 @@ hash = "7998a8eed75fa5fb1ef09eb4d92b92c08a2f23bfdeabb5115a3742e35a11ff75"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
-hash = "a93a3131ecf496a78a13aae16e2c1db2c111998173dc79868b59c28fc5a901cf"
+hash = "c7e25353a7c1f5806912f50700ebd5c76293fe0b296e4c56048d29caf793227e"
 
 [[files]]
 file = "config/dungeon_crawl.toml"
@@ -800,6 +800,10 @@ file = "config/fancymenu/assets/32x32.png"
 hash = "69f3b521c138cd651eb2cb5e105046445249ef1c37a152cc39f1eef100f4d34d"
 
 [[files]]
+file = "config/fancymenu/assets/WildFlower-Collective.json"
+hash = "23f8c15de3fc0131ee8386f29437b2f21c4ff42a6211e4475489a403af26522c"
+
+[[files]]
 file = "config/fancymenu/assets/betterm.png"
 hash = "9e4cd7a5dec75c2d88d1ac5d23e83dbc364aafc37b0873d3ec69c4355b4d5f8d"
 
@@ -809,6 +813,10 @@ hash = "5dec167595094a75feba45754991fd30049d5c51fc3956982fcfaaa13791c071"
 
 [[files]]
 file = "config/fancymenu/assets/bmc6.png"
+hash = "2cd5c3073c15de0bc3a07e3eed0353aaa3bc82d337c03e9988d992dfaf5d87f4"
+
+[[files]]
+file = "config/fancymenu/assets/bmc6_old.png"
 hash = "e6178bd0b161d2cb84891a37286fc93dc8bfb5c9658a4c7f172263136ce479d6"
 
 [[files]]
@@ -862,6 +870,14 @@ hash = "38094395125d966981085e289c8932fe041e648928009b4cfcaef572383ad941"
 [[files]]
 file = "config/fancymenu/assets/performance.png"
 hash = "59976b2901021afd423fee14fa828edeb943925f92ee826fc4c3e103ad91dec7"
+
+[[files]]
+file = "config/fancymenu/assets/screenshot.png"
+hash = "97b7dd1dec55d47ee02fc92c5f4dccb672649a49491c30c71c9744f1979844f9"
+
+[[files]]
+file = "config/fancymenu/assets/wildflower.png"
+hash = "1d495e5aabe0c0c35a0208cf74b1bbdcd323ac23fd07407d28279a5cca0a3433"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -1883,11 +1899,6 @@ hash = "67c36b12d8bebdf4b1e07db254a3dac8a92153fc4b5937dc3d7ecfa4ed67dfe5"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "f2420bfbb87f2aab135fc2cb100521ae7f69e8794f2059878fb652a5b1f1c84e"
-metafile = true
-
-[[files]]
 file = "mods/citadel-neoforge.pw.toml"
 hash = "6a7cb0f572e043d6bedb47459ed13cb1ab62291663c8614d66c594d64458608b"
 metafile = true
@@ -1940,11 +1951,6 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "047619852639f4a9771704a4a0c1c417b464f2c9a7c04a0494ac32a77fba8cbd"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "065d8ed273e03130f28e637a4c085c4ad6e7e74eb9fb7d536169a2a874a26a7f"
 metafile = true
 
 [[files]]
@@ -2035,6 +2041,11 @@ metafile = true
 [[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "b57a07e73b9e871fa27b5d2c113749cf0291da1138ab3acf3988980c6f61dd44"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "e052cb3685baecae837c574cebd658ebc54ededf24186bb152194a78b7eded7d"
 metafile = true
 
 [[files]]
@@ -2155,11 +2166,6 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "4c71bd3b3ba4f9aff5dc9e4004527e22b9416cb0376192caa672e014f970f510"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "fdf8ce79c6351b63af9eb22df722bba4fdb3568e84c3f124e2607766475590f7"
 metafile = true
 
 [[files]]
@@ -2345,11 +2351,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "f43d4a8e3eea5069bcf57e6d85c27b712db12a3f87c5019e1f3eba8cdecccd7c"
-metafile = true
-
-[[files]]
-file = "mods/launchpad.pw.toml"
-hash = "a8f4645c2192134acbe6534dddbcc5b9156af2ad81792a5e5a781e173b603a31"
 metafile = true
 
 [[files]]
@@ -2679,7 +2680,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b2327412e91caae91500cb1ea0965a579829c15403a9cd897f8eda2d44b8e16a"
+hash = "624ba40aea06b451d8867b04ba3f0b2d174c11afa24d4a6acd278d2b2377493c"
 metafile = true
 
 [[files]]
@@ -2810,16 +2811,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "2701f8ead03ad1fe5cfc5d10064ded9405373346829236b8676aa6cdf682fd09"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "41b9c80b94b1ec7b31d13ac9517e9a9652da356d288c55c1305c2e80b3996b31"
-metafile = true
-
-[[files]]
-file = "mods/voxyserver.pw.toml"
-hash = "6ce58dfb2f91173305dc8fa7a6c8c9202e374788b661ceadc31857b47bf203f3"
 metafile = true
 
 [[files]]
