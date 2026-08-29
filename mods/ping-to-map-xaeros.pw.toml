@@ -1,6 +1,6 @@
 name = "Ping to Map: Xaero's Minimap & Ping Wheel Addon"
 filename = "pingtomapxaeros-1.1.0-neoforge-26.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

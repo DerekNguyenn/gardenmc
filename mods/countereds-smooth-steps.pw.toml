@@ -1,6 +1,6 @@
 name = "Countered's Smooth Steps"
 filename = "Smooth Steps v1.2.0-26.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

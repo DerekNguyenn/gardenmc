@@ -1,6 +1,6 @@
 name = "Delete Worlds To Trash"
 filename = "DeleteWorldsToTrash-v26.1.2-mc26.1.x-NeoForge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Countered's Smooth F5"
 filename = "Smooth F5 v1.3.1-26.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
