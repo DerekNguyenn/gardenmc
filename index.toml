@@ -10,11 +10,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "3c20dcf049519c2b9dc6fe0080f10b150631cb8db16d05f6b1bfd1b5e68a465c"
-
-[[files]]
-file = "Garden MC [BMC6 Fork]-v0.zip.bak"
-hash = "9e6a58cf603351715d42e53d80b435e25f95b3814fb9a8289806f446804277db"
+hash = "a303cadef440b0b898c9d31b09fd7f709a122b7c69dee0e86bf786b31b6f5c35"
 
 [[files]]
 file = "bliss-shader.pw.toml"
@@ -2965,3 +2961,7 @@ metafile = true
 [[files]]
 file = "mods/zRemove_SDL_Intro_v1.2.2.jar"
 hash = "7a20d74dc05270616eeb5f53f51ebf5d67b43c3a3fed7d745377ab70107641fe"
+
+[[files]]
+file = "wrangler.jsonc"
+hash = "9772bb94f7fc1e316fecf55e5bb71a1a02e3865956bbfed77212e160c5fdfa69"
