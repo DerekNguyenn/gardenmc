@@ -2743,6 +2743,11 @@ hash = "5505de270170126585aeb3c32fd6a6059149774031631d3b5f79192aad427f5c"
 metafile = true
 
 [[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "ca2daf2e3742d71d0813a942749f607900a03539f2bacbdb53b6c45630d7de43"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "ca236f724f904b758a3d5c02690604104744d4b272f8c207b1fbbb965b9e3edb"
 metafile = true
