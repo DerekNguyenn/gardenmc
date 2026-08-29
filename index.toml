@@ -10,7 +10,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "f7ed2d58ec64ae2e3489ae95c8826dfbc430eeefef1f046327829194237a6d34"
+hash = "3c20dcf049519c2b9dc6fe0080f10b150631cb8db16d05f6b1bfd1b5e68a465c"
 
 [[files]]
 file = "Garden MC [BMC6 Fork]-v0.zip.bak"
@@ -1895,11 +1895,6 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "397a3f8c8a2812ac296682cac1d9b6f4f129f5b183ead86de8de0fbd1801a5c4"
-metafile = true
-
-[[files]]
-file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "55e46e994051517ec92f1f0eac582b80f1ca2653c09fc8182729c5e02bed83ef"
 metafile = true
 
 [[files]]
