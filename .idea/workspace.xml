@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fee0ad22-e87a-4e3a-b9fc-421a7219f268" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.packwizignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/install-drivers.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/merge-upstream.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor-bmc.sh" afterDir="false" />
+    <list default="true" id="fee0ad22-e87a-4e3a-b9fc-421a7219f268" name="Changes" comment="Fix invalid hash error">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.GoLinterPluginOnboardingV2&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.GoLinterPluginStorageMigration&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.GoOptimizationToolWindowEnableInLayout.v333333&quot;: &quot;true&quot;,
@@ -61,14 +57,20 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Derek&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Derek\GolandProjects\gardenmc" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gardenmc" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
@@ -76,7 +78,7 @@
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="gardenmc" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind />
+      <kind value="DIRECTORY" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
@@ -103,5 +105,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Import latest BMC6 modpack" />
+    <MESSAGE value="Disable line ending conversion from example repo" />
+    <MESSAGE value="Rename packwiz ID" />
+    <MESSAGE value="New furniture mods&#10;Set include the following Macaw's mods and dependencies: Bridges, Fences and Walls, Doors, Furniture, Biomes O' Plenty support, and AddonsLib" />
+    <MESSAGE value="Add second batch of Macaw's mods&#10;Set includes the following Macaw's mods: Windows, Trapdoors, Roofs, Lights and Lamps, Paths and Pavings, Stairs" />
+    <MESSAGE value="Add Chunky and Distant Horizons for LOD visuals" />
+    <MESSAGE value="Add Lootr" />
+    <MESSAGE value="Add YUNG's Better Caves" />
+    <MESSAGE value="Install Bathymetry and MossyLib dependency" />
+    <MESSAGE value="Add new additional shaderpacks" />
+    <MESSAGE value="Add C2ME mod" />
+    <MESSAGE value="Add AutoModpack for update handling" />
+    <MESSAGE value="Add Streams Reflowing mod" />
+    <MESSAGE value="Add BetterNether: New Dawn &amp; dependencies" />
+    <MESSAGE value="Add BetterEnd: New Dawn" />
+    <MESSAGE value="Add DynamicTrees &amp; BetterEnd/Nether compat mods" />
+    <MESSAGE value="Replace Streams mod with NeoForge version" />
+    <MESSAGE value="Remove Chunky" />
+    <MESSAGE value="Add IceAndFire CE" />
+    <MESSAGE value="Add Overhauled Village" />
+    <MESSAGE value="Add wrangler for page deployment" />
+    <MESSAGE value="Refresh internal hashes for installer" />
+    <MESSAGE value="Remove unused wrangler" />
+    <MESSAGE value="Fix invalid hash error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix invalid hash error" />
   </component>
 </project>
