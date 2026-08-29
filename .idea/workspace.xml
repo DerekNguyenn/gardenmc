@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fee0ad22-e87a-4e3a-b9fc-421a7219f268" name="Changes" comment="Fix invalid hash error">
+    <list default="true" id="fee0ad22-e87a-4e3a-b9fc-421a7219f268" name="Changes" comment="Renormalize line endings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packwizignore" beforeDir="false" afterPath="$PROJECT_DIR$/.packwizignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Import latest BMC6 modpack" />
     <MESSAGE value="Disable line ending conversion from example repo" />
     <MESSAGE value="Rename packwiz ID" />
     <MESSAGE value="New furniture mods&#10;Set include the following Macaw's mods and dependencies: Bridges, Fences and Walls, Doors, Furniture, Biomes O' Plenty support, and AddonsLib" />
@@ -131,6 +130,8 @@
     <MESSAGE value="Refresh internal hashes for installer" />
     <MESSAGE value="Remove unused wrangler" />
     <MESSAGE value="Fix invalid hash error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix invalid hash error" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Renormalize line endings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renormalize line endings" />
   </component>
 </project>
