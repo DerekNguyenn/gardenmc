@@ -10,7 +10,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "a303cadef440b0b898c9d31b09fd7f709a122b7c69dee0e86bf786b31b6f5c35"
+hash = "759c5ff6d7f86b66e407b566b13f9105aaff9c5ad31776d220096bce24810443"
 
 [[files]]
 file = "bliss-shader.pw.toml"
@@ -666,10 +666,6 @@ hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
 [[files]]
 file = "config/crash_assistant/config.toml"
 hash = "343aeff1cb97361ed539af905112fba9a195b2ab0e3062fca65b38f2fa92c4dd"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
@@ -2961,7 +2957,3 @@ metafile = true
 [[files]]
 file = "mods/zRemove_SDL_Intro_v1.2.2.jar"
 hash = "7a20d74dc05270616eeb5f53f51ebf5d67b43c3a3fed7d745377ab70107641fe"
-
-[[files]]
-file = "wrangler.jsonc"
-hash = "9772bb94f7fc1e316fecf55e5bb71a1a02e3865956bbfed77212e160c5fdfa69"
