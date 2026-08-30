@@ -1891,6 +1891,11 @@ hash = "67c36b12d8bebdf4b1e07db254a3dac8a92153fc4b5937dc3d7ecfa4ed67dfe5"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "55e46e994051517ec92f1f0eac582b80f1ca2653c09fc8182729c5e02bed83ef"
+metafile = true
+
+[[files]]
 file = "mods/citadel-neoforge.pw.toml"
 hash = "6a7cb0f572e043d6bedb47459ed13cb1ab62291663c8614d66c594d64458608b"
 metafile = true
