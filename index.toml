@@ -2186,6 +2186,11 @@ hash = "31dc9855b51ee60a3d25152af03632a79d3415002c79783f1b85232a945c14ac"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "697b067fd2bc849ef12157ecd2b1ba8a17e289e369d238f709700b4d37c5dc79"
+metafile = true
+
+[[files]]
 file = "mods/ftb-filter-system.pw.toml"
 hash = "2cd5926055dac25058dae654a9a17bdb6183491f456fe4dab5b38d5999c98955"
 metafile = true
