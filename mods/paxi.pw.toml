@@ -1,6 +1,6 @@
 name = "Paxi (Forge/NeoForge)"
 filename = "Paxi-26.1.2-NeoForge-6.1.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
