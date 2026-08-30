@@ -2056,11 +2056,6 @@ hash = "5af7bae470b95fce84e87176d7be564f5a653cae796a69b4aad36bc0f65295ec"
 metafile = true
 
 [[files]]
-file = "mods/dungeon-and-taverns.pw.toml"
-hash = "6d84a87a99d5ef32a5c7779e35bf4570eb6f97e4c2bd789ec09c6ed807fecb6e"
-metafile = true
-
-[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "44cde5b09df0356596fde470501920d8b1ca2dffa57ce296538ce3e0d6047a30"
 metafile = true
