@@ -2056,6 +2056,11 @@ hash = "5af7bae470b95fce84e87176d7be564f5a653cae796a69b4aad36bc0f65295ec"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "6d84a87a99d5ef32a5c7779e35bf4570eb6f97e4c2bd789ec09c6ed807fecb6e"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "44cde5b09df0356596fde470501920d8b1ca2dffa57ce296538ce3e0d6047a30"
 metafile = true
@@ -2278,6 +2283,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "14ad19d769eef6ba4a28d0822a5d7701a52f1818aacab8bf6eec91d9381a4362"
+metafile = true
+
+[[files]]
+file = "mods/im-fast.pw.toml"
+hash = "29e3ebb045a353f835d4d3efea3f28f5e62074225bfd3c80b15cb2736e0c67fa"
 metafile = true
 
 [[files]]
@@ -2587,7 +2597,7 @@ metafile = true
 
 [[files]]
 file = "mods/paxi.pw.toml"
-hash = "9e01a0d11fb1ba567f0710bcc497d3b39d81f6772ce18763fca4b061cd067e31"
+hash = "fc8e300a3afb7e9fc7892b295003ac2bd6e2e409948f1a2dbe17f223beb081e7"
 metafile = true
 
 [[files]]
