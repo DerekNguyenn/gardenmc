@@ -1,6 +1,6 @@
 name = "Unbreakables"
 filename = "unbreakables-neoforge-26.1-26.1.0.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
