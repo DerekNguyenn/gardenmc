@@ -2201,6 +2201,11 @@ hash = "82b33212cd74a7670abbd249a24df696b3ae2f23ede7a7f5b57246f115b16b5e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "e2dcadc4e3d8be6dd5be9e8f690524396abd0a17c93af95ffc4e714f4af6ed71"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "cb69112ea7c492ee73426fb503af2d834c8bafcd8341188c99ea6dc56d38de6f"
 metafile = true
@@ -2298,6 +2303,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "eb8caa143023cd8e8ff9cc11510a6d84291f7899446231b57d1dc80f73cdd365"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "2f80b76225243805e2fa0feaef7342599871ffcb22096c4de7d4218611307ed3"
 metafile = true
 
 [[files]]
@@ -2566,6 +2576,11 @@ hash = "8a9c5270c99e11ebed53ffce000147f71e218b14e609b891ae76f534b78d61bd"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "9e01a0d11fb1ba567f0710bcc497d3b39d81f6772ce18763fca4b061cd067e31"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "078f95e3048de64e5084cc455cdd05ff2d5f2fb0d47fcc0946504aa8fce005b2"
 metafile = true
@@ -2641,6 +2656,11 @@ hash = "d8ab5e2fb63d3e221b83b3ed113e8ed5a23afef094b509c818ab9fbb5a599ce7"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "07876b239a1e9fe0c49795f4dd1146a81b253593936dbb9263592c7f71796b3d"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "64b16ee450bbae5c0f6f97b4765a48fefe1d5c86edf85eb992d1c946f0f219aa"
 metafile = true
@@ -2653,6 +2673,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "82e084e5fe83f87a01bc7f030f5ca0d59274122e6d634bdcb5d4c9cb3385dd71"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "37c8ce891dc23f2fa098cbddd35f91e9f055b848200dcdcb4fd1cc21e9108e5d"
 metafile = true
 
 [[files]]
@@ -2783,6 +2808,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "96bc052d6a225e6c138e1afef9687b2b645cd1b145865f148dfa40a31ed3f70c"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "71c920bbbf7464754a2e7beb48e8dae545795cc6c36206623a45188a8072e03b"
 metafile = true
 
 [[files]]
