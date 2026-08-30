@@ -2816,6 +2816,11 @@ hash = "71c920bbbf7464754a2e7beb48e8dae545795cc6c36206623a45188a8072e03b"
 metafile = true
 
 [[files]]
+file = "mods/unbreakables.pw.toml"
+hash = "833544a7be8ac930d63dd2608c5e3f07fb4c84ff8b86a14a88948974ce1c41d5"
+metafile = true
+
+[[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "83149c0d3593c52a321dc9ed0a68f85f3d535df93b07238db9d0c82d5b64350f"
 metafile = true
