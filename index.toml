@@ -1747,7 +1747,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs-neoforge.pw.toml"
-hash = "9698efd7b54a2dd948d16a86e29410bd4127297b93fef89217791a9cd6f3ac4e"
+hash = "f1e4c4a492c53e698c6a87d851d76af118b5fe8cd0de249dc2dcefa565bb3177"
 metafile = true
 
 [[files]]
@@ -1773,6 +1773,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "01774d3f3afd43867fc1d73a6b578d9c90a3e14f1fea7d59be3db731a539c98a"
+metafile = true
+
+[[files]]
+file = "mods/armor-hider.pw.toml"
+hash = "52d227d96cde1dc8aec9656d47ce9f1f694cac36edc3dac266d1e46d19584638"
 metafile = true
 
 [[files]]
@@ -2076,11 +2081,6 @@ hash = "bde35ef41b07180381756d9059c6b58e0e7e025454e627ffe2cd17ee7188724f"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "e068329317e1f2ef9f5cbe7f2f5c8727a5292b479a0105afaa2697e1cc7dfe45"
-metafile = true
-
-[[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "053f85d57174f4d70ae9a9b9c1651f0c596b9a654c82f5c7074c44b6d205c6ec"
 metafile = true
@@ -2208,11 +2208,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "82b33212cd74a7670abbd249a24df696b3ae2f23ede7a7f5b57246f115b16b5e"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ranks-forge.pw.toml"
-hash = "e2dcadc4e3d8be6dd5be9e8f690524396abd0a17c93af95ffc4e714f4af6ed71"
 metafile = true
 
 [[files]]
@@ -2408,6 +2403,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "39e450d1502d0c475325c4b64f20d98be0c16262b9e249ec5fca94b9dac3d5ed"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f45f6789625038480707429beaa0fed26ee65079698f5fda67e0f5bfcbc7ba6f"
 metafile = true
 
 [[files]]
@@ -2688,6 +2688,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "82e084e5fe83f87a01bc7f030f5ca0d59274122e6d634bdcb5d4c9cb3385dd71"
+metafile = true
+
+[[files]]
+file = "mods/secure-trade.pw.toml"
+hash = "7e2053eb868515b897ef44dd04e487719fdffb23c8b0b9d2e9b40f04e6dfcf33"
 metafile = true
 
 [[files]]
