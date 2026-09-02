@@ -1,0 +1,13 @@
+name = "Armor Hider"
+filename = "armor-hider-neoforge-0.13.1+mc-26.1.0-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ae73ca690dae0205fe3f5b1a0508a24eb57a928"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8786481
+project-id = 1475841
