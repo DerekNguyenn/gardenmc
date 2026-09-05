@@ -1861,8 +1861,18 @@ hash = "2dd89dadac4f94f6f567d4948eef1f3af2cda80fac36ad68747717266016cf07"
 metafile = true
 
 [[files]]
+file = "mods/blahaj-replushed.pw.toml"
+hash = "0e2905c2902598cc102651f9212de7dd2b17710c1437832348dc884fe115bf54"
+metafile = true
+
+[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "eb16142adc70a313cb70ab751c55db352edcf95a7d06c867ee28a2ff587cf8dc"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "c74ff423cd2f9bc5b0c34ea081e024fa766b4b0914f6f2ce40789a5f82b00e0e"
 metafile = true
 
 [[files]]
@@ -2093,6 +2103,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-insights.pw.toml"
 hash = "a7ce3a18e2b16a03512a1c41e1b1a360b2d03d16f915e18ac9d927726ae7360b"
+metafile = true
+
+[[files]]
+file = "mods/end-villager-outpost.pw.toml"
+hash = "3b64931edd10a20c24ba03ccc9f70df11bef6cbccc2f54feb475c23537af76ed"
 metafile = true
 
 [[files]]
@@ -2466,6 +2481,11 @@ hash = "cf44253c5a5bdabd827684f32fdaf29462adcfcf3c5b1e3489f44acd8b00552f"
 metafile = true
 
 [[files]]
+file = "mods/map-distance-fix.pw.toml"
+hash = "7dc07c934076cabb7e94bc6cdd8ca8753c0df5e381849de88f9a78673e8791a2"
+metafile = true
+
+[[files]]
 file = "mods/mbs-moogs-bountiful-structures.pw.toml"
 hash = "a93966016e911b628b5e296b7b21a597157bd0e52de68eb7ba990db1821c06ff"
 metafile = true
@@ -2513,6 +2533,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "29c06b3e0967fc14ae933578876dbb94132f98c89e46449c9f33edf60bb3c762"
+metafile = true
+
+[[files]]
+file = "mods/more-villagers.pw.toml"
+hash = "bc6057890fe8ff2d35bd891aaa2602b5c2c41f3be5d5ea416749be25b38fd58c"
 metafile = true
 
 [[files]]
@@ -2861,6 +2886,11 @@ hash = "2701f8ead03ad1fe5cfc5d10064ded9405373346829236b8676aa6cdf682fd09"
 metafile = true
 
 [[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "476afe7db237d560e9fdfd51f11caedfbe049e0937d8eb838b05133bd8eebcb3"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "2157a278d0a095e624be57945f04aecf3636162f3a7eccb83cf8dd9ad4129740"
 metafile = true
@@ -2883,6 +2913,11 @@ metafile = true
 [[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "8cc3e329650f696ca8df7ea1f8c007941302e8f1da388ff5593ea801169f242c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-maps-x-waystones.pw.toml"
+hash = "9c8c3be9ed21ec274257dfb460be4616ebabce1621edb62e53e54b41bdd1f46b"
 metafile = true
 
 [[files]]

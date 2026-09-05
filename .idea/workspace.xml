@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fee0ad22-e87a-4e3a-b9fc-421a7219f268" name="Changes" comment="Renormalize line endings">
+    <list default="true" id="fee0ad22-e87a-4e3a-b9fc-421a7219f268" name="Changes" comment="Ignore .idea directory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packwizignore" beforeDir="false" afterPath="$PROJECT_DIR$/.packwizignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.toml" beforeDir="false" afterPath="$PROJECT_DIR$/index.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,11 @@
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="upstream" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -29,6 +35,12 @@
     &quot;accountId&quot;: &quot;ac8f6c72-2dd3-40b4-bc29-795c4c3d34f8&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/config/apotheosis/apothic_attributes.cfg" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -58,7 +70,7 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -107,8 +119,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Disable line ending conversion from example repo" />
-    <MESSAGE value="Rename packwiz ID" />
     <MESSAGE value="New furniture mods&#10;Set include the following Macaw's mods and dependencies: Bridges, Fences and Walls, Doors, Furniture, Biomes O' Plenty support, and AddonsLib" />
     <MESSAGE value="Add second batch of Macaw's mods&#10;Set includes the following Macaw's mods: Windows, Trapdoors, Roofs, Lights and Lamps, Paths and Pavings, Stairs" />
     <MESSAGE value="Add Chunky and Distant Horizons for LOD visuals" />
@@ -132,6 +142,8 @@
     <MESSAGE value="Fix invalid hash error" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Renormalize line endings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renormalize line endings" />
+    <MESSAGE value="Add Archaeology chapter to FTB Quest" />
+    <MESSAGE value="Ignore .idea directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ignore .idea directory" />
   </component>
 </project>
