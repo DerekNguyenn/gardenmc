@@ -1751,6 +1751,11 @@ hash = "786518478cf9ff9f32a333727bf8e3fa6b7fb02842d56c90495e5004d795705a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-core-info.pw.toml"
+hash = "ead5ce9108fbc912863c24772958430b9db4537d1fbdc77b84210d1570b28914"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "f278be43cbc05cf2a57ca0c0278c58d726a7e9f2208acc6f5015b2e5657fb4a2"
 metafile = true
@@ -2933,11 +2938,6 @@ metafile = true
 [[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "4f987734769bb0b2ecbf35c454806562d8d1d58944fd54f515de0122cd494867"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-maps-x-waystones.pw.toml"
-hash = "9c8c3be9ed21ec274257dfb460be4616ebabce1621edb62e53e54b41bdd1f46b"
 metafile = true
 
 [[files]]
