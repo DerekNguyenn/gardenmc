@@ -1931,11 +1931,6 @@ hash = "67c36b12d8bebdf4b1e07db254a3dac8a92153fc4b5937dc3d7ecfa4ed67dfe5"
 metafile = true
 
 [[files]]
-file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "55e46e994051517ec92f1f0eac582b80f1ca2653c09fc8182729c5e02bed83ef"
-metafile = true
-
-[[files]]
 file = "mods/citadel-neoforge.pw.toml"
 hash = "13d080bc29f0386ec5e4fe861ad96a51fd757ab6c3e07d767f81a7b738936aed"
 metafile = true
@@ -2293,6 +2288,11 @@ metafile = true
 [[files]]
 file = "mods/global-narration-toggle.pw.toml"
 hash = "6076479c55d040e4ff8a7cfff5f57dc345c8f938d40811a79ff3ec82752f4884"
+metafile = true
+
+[[files]]
+file = "mods/glowing-emissive-ores-definitive-edition.pw.toml"
+hash = "6cd237862b8bef29a470598b1fa436a78aeb26ca048e5879189dcabe0dfdf41f"
 metafile = true
 
 [[files]]

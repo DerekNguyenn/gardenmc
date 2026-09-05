@@ -1,0 +1,13 @@
+name = "Glowing Emissive Ores Definitive Edition"
+filename = "GEODE-v1.0.0-RP1.112.0-mc1.18-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U8Iw4AfP/versions/1W8sa0sW/GEODE-v1.0.0-RP1.112.0-mc1.18-26.2.jar"
+hash-format = "sha512"
+hash = "7e2660ad0aa503d0bc659c191424fc7bccfa473897ee9a22366bb111399c69da198b904a67073b231f717b2e3c165aa5cdd7e60cb11cfa2bea79f6c87b5f0ff9"
+
+[update]
+[update.modrinth]
+mod-id = "U8Iw4AfP"
+version = "1W8sa0sW"
