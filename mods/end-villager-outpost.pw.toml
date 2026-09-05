@@ -1,0 +1,13 @@
+name = "End Villager Outpost"
+filename = "end_villager_outpost-1.0.0 Neoforge 26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd1a45285b293e7773fa55918666c886829e625e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7959038
+project-id = 1341317
