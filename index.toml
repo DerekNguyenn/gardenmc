@@ -1832,7 +1832,7 @@ metafile = true
 
 [[files]]
 file = "mods/bathymetry.pw.toml"
-hash = "3546e7a3f2c09530150110c27f22a8b6cc102510cd4e630e0ce53f7e83d5aa91"
+hash = "23e7e04f4a2d87e873ccc747a0a417352e46b1be6ef4358d9da5d1bcf1e7eb24"
 metafile = true
 
 [[files]]
