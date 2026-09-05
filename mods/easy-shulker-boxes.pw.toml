@@ -1,13 +1,13 @@
 name = "Easy Shulker Boxes"
-filename = "EasyShulkerBoxes-v26.1.3-mc26.1.x-NeoForge.jar"
+filename = "EasyShulkerBoxes-v26.1.4-mc26.1.x-NeoForge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a62550fd4afdf663577347635579b6931bb6bb0"
+hash = "c099252e2da9e93160d5e3134bc3288aa5861a9d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8619415
+file-id = 8633505
 project-id = 594006

@@ -1,13 +1,13 @@
 name = "Open Parties and Claims"
-filename = "open-parties-and-claims-neoforge-26.1.2-0.29.3.jar"
+filename = "open-parties-and-claims-neoforge-26.1.2-0.30.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "71281dd877fd24da7ab56b59ab46ad1b61c639c0"
+hash = "d5ecad971308c6e65093b16a2d145f99c135d0f3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8507202
+file-id = 8690648
 project-id = 636608

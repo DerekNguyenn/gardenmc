@@ -1,13 +1,13 @@
 name = "YUNG's Cave Biomes (Forge/NeoForge)"
-filename = "YungsCaveBiomes-26.1.2-NeoForge-4.1.0.jar"
+filename = "YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d02219f6d89f5d8b791c5f4258c38ac6abd4209e"
+hash = "4ccb421413dc288a7845e50735e62fe6c8f29f59"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8313959
+file-id = 8686283
 project-id = 1111586
