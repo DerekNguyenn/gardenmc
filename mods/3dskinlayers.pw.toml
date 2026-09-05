@@ -1,0 +1,13 @@
+name = "3D Skin Layers"
+filename = "skinlayers3d-neoforge-1.11.2-mc26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/IEzXSo3w/skinlayers3d-neoforge-1.11.2-mc26.1.2.jar"
+hash-format = "sha512"
+hash = "d9768ed874d9358ce8f5eaba59b2cc5855ee4e496fe569eee653f5e9b1032550299c3b3c112a7b33a08266603619ed4882a3f3aee066102a0db37796214824ec"
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "IEzXSo3w"

@@ -1736,6 +1736,11 @@ file = "hs_err_pid17924.log"
 hash = "28b9242d3b889e990038c4c251bce46c4fe909c894fb3c3af89e300236a000ef"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "90545284bcfbf7cc14d7a67e0691170295010eca4a1e8b9f0c6c4d6db779e93b"
+metafile = true
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "d55ff5b3e32e7bb793552ac2feed84e3ac1f92156e2213bd8e3c90b1b48dc9a2"
 metafile = true
@@ -2753,11 +2758,6 @@ metafile = true
 [[files]]
 file = "mods/shogi.pw.toml"
 hash = "74025360b996a3a402395902b53c1660cdb2227a283b62d5603f993dd89987df"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "24931e67e43ba3f54867e93a5439ea2fe5aa8c323f6003039bb499f9ebbec02d"
 metafile = true
 
 [[files]]
