@@ -1,0 +1,13 @@
+name = "Blahaj - Replushed"
+filename = "blahaj-replushed-4.0.0+26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3647a262d08127dcd1999aeb61461842323b16fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7994800
+project-id = 790339

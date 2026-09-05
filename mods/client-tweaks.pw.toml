@@ -1,0 +1,13 @@
+name = "Client Tweaks"
+filename = "clienttweaks-neoforge-26.1.2-26.1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3dec588e380f5c6b21a1fbcc53c88c457a8a890c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8696981
+project-id = 251407

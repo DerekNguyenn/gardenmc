@@ -1,0 +1,13 @@
+name = "Power Screenshot"
+filename = "PowerScreenshot-Minecraft26.1-NeoForge-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffc6bfe0a619e6be0846ad2fef0059ce2ea42021"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8330578
+project-id = 1460055

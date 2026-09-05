@@ -1,0 +1,13 @@
+name = "Alex's Mobs (NeoForge)"
+filename = "alexsmobsneoforge-26.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "352591b6957de228263d5dbffca182a445ab5410"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8672123
+project-id = 1512535

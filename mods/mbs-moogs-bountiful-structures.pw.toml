@@ -1,0 +1,13 @@
+name = "MBS - Moog's Bountiful Structures"
+filename = "MoogsBountifulStructures-1.21-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5b63c19e78be484a1dffb6d170addf8672caf6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8445597
+project-id = 1499680

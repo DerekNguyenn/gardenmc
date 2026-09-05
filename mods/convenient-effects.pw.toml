@@ -1,0 +1,13 @@
+name = "Convenient Effects"
+filename = "ConvenientEffects-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9003ba81f198fc5c34bcae0e088bf0659ec5ff7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7997011
+project-id = 1259240

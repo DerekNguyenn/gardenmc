@@ -1,0 +1,45 @@
+{
+  "quest.2BB6293E35FCCD8A.quest_desc": [
+    "You can infuse your tomes to get all enchantments back instead of just one!",
+  ],
+  "quest.1C9FF54C1CB2C8E0.quest_desc": [
+    "You need a sculkshelf to get to Eterna level 80 for Dragon's Breath infusion! Which means you must defeat the Warden!",
+  ],
+  "quest.22AA781776F1603B.title": "Extracting Enchantments",
+  "quest.4C6EE44218184ACD.quest_desc": [
+    "Lets you access treasure enchantments, like Mending!",
+  ],
+  "quest.2EE770FEBFB9B493.quest_desc": [
+    "Filters out enchantments you don't want to keep getting!",
+  ],
+  "quest.282E2E50CCEF576B.quest_desc": [
+    "Prevents excess Quanta from ruining your enchantments!",
+  ],
+  "quest.7EAD4DBB03B78EC0.title": "&dApothic Enchanting",
+  "quest.4299F3735F77A44D.quest_desc": [
+    "With an upgraded enchantment setup, you can pour your experience into your bookshelves...",
+  ],
+  "quest.7EAD4DBB03B78EC0.quest_desc": [
+    "&dApotheosis&r overhauls the enchantment system, allowing for even stronger enchantments than vanilla Minecraft!",
+    "",
+    "You don't have to use it, since regular bookshelves will still work as normal! But if you'd like to delve into the secrets of magic, you've come to the right place...",
+  ],
+  "quest.22AA781776F1603B.quest_desc": [
+    "Even the anvil got some upgrades! You can use Tomes of Scrapping to extract and combine enchantments",
+  ],
+  "quest.13B443F5B3EE7DBA.quest_desc": [
+    "The &bSeashelf&r is a slightly upgraded bookshelf, that can be crafted into more magical items thru &o&dInfusion&r",
+  ],
+  "quest.6EACD9D9AC04BF91.quest_desc": [
+    "With an upgraded enchantment setup, you can pour your experience into your bookshelves...",
+  ],
+  "quest.667EE1EDEE46AFA8.quest_desc": [
+    "You can use Tomes to filter enchantments! For example, rather than enchanting a pickaxe directly, you can enchant a Tome of the Miner which only accepts pickaxe enchantments! This makes it easier to combine enchantments later.",
+  ],
+  "quest.1D139AB94D6BD4D4.quest_desc": [
+    "The &cHellshelf&r is a slightly upgraded bookshelf, that can be crafted into more magical items thru &o&dInfusion&r",
+  ],
+  "task.053A45B96C79CB7D.title": "Any #apothic_enchanting:tomes",
+  "quest.667EE1EDEE46AFA8.title": "Tomes!!",
+  "quest.3EFBBF52BFB0E8BD.quest_subtitle": "Makes moving entities easier!",
+}

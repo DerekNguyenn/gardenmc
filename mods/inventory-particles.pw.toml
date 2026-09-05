@@ -1,0 +1,13 @@
+name = "Inventory Particles"
+filename = "InventoryParticles-3.0.0+26.1+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c416822c0d4c5cdaab565c7a8dda0508c813727e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8648698
+project-id = 1339689

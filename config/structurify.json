@@ -1,0 +1,1191 @@
+{
+  "config_version": "2.0.29",
+  "config_datetime": "2026-07-30_21-03-34",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": true,
+    "global_spacing_and_separation_modifier": 1.3
+  },
+  "structure_namespaces": [],
+  "structures": [],
+  "structure_sets": [
+    {
+      "spacing": 28,
+      "separation": 12,
+      "name": "mbs:abandoned_house",
+      "is_disabled": false,
+      "salt": 387124345,
+      "frequency": 0.52000004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:abandoned_house": 1
+      }
+    },
+    {
+      "spacing": 14,
+      "separation": 9,
+      "name": "mbs:big_pale_house_1",
+      "is_disabled": false,
+      "salt": 217572324,
+      "frequency": 0.54200006,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:big_pale_house_1": 1
+      }
+    },
+    {
+      "spacing": 11,
+      "separation": 6,
+      "name": "mbs:big_pool",
+      "is_disabled": false,
+      "salt": 126280573,
+      "frequency": 0.565,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:big_pool": 1
+      }
+    },
+    {
+      "spacing": 22,
+      "separation": 16,
+      "name": "mbs:bone_remains",
+      "is_disabled": false,
+      "salt": 371808444,
+      "frequency": 0.574,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:bone_remains": 1
+      }
+    },
+    {
+      "spacing": 14,
+      "separation": 8,
+      "name": "mbs:building_remains",
+      "is_disabled": false,
+      "salt": 675570141,
+      "frequency": 0.58000004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:building_remains": 1
+      }
+    },
+    {
+      "spacing": 20,
+      "separation": 14,
+      "name": "mbs:cobweb_stilt_house",
+      "is_disabled": false,
+      "salt": 451252647,
+      "frequency": 0.546,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:cobweb_stilt_house": 1
+      }
+    },
+    {
+      "spacing": 31,
+      "separation": 22,
+      "name": "mbs:cozy_camp",
+      "is_disabled": false,
+      "salt": 106245318,
+      "frequency": 0.546,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:cozy_camp": 1
+      }
+    },
+    {
+      "spacing": 37,
+      "separation": 27,
+      "name": "mbs:dead_big_house_1",
+      "is_disabled": false,
+      "salt": 781849983,
+      "frequency": 0.541,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_big_house_1": 1
+      }
+    },
+    {
+      "spacing": 16,
+      "separation": 6,
+      "name": "mbs:dead_campfire_1",
+      "is_disabled": false,
+      "salt": 940762136,
+      "frequency": 0.57600003,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_campfire_1": 1
+      }
+    },
+    {
+      "spacing": 17,
+      "separation": 11,
+      "name": "mbs:dead_forest_well",
+      "is_disabled": false,
+      "salt": 796877068,
+      "frequency": 0.55300003,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_forest_well": 1
+      }
+    },
+    {
+      "spacing": 20,
+      "separation": 10,
+      "name": "mbs:dead_gold_pile_iron_golem",
+      "is_disabled": false,
+      "salt": 276006701,
+      "frequency": 0.58400005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_gold_pile_iron_golem": 1
+      }
+    },
+    {
+      "spacing": 37,
+      "separation": 22,
+      "name": "mbs:dead_house_2",
+      "is_disabled": false,
+      "salt": 814606502,
+      "frequency": 0.61200005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_house_2": 1
+      }
+    },
+    {
+      "spacing": 33,
+      "separation": 22,
+      "name": "mbs:dead_house_3",
+      "is_disabled": false,
+      "salt": 760344930,
+      "frequency": 0.59400004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_house_3": 1
+      }
+    },
+    {
+      "spacing": 33,
+      "separation": 21,
+      "name": "mbs:dead_house_4",
+      "is_disabled": false,
+      "salt": 939451906,
+      "frequency": 0.558,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_house_4": 1
+      }
+    },
+    {
+      "spacing": 34,
+      "separation": 24,
+      "name": "mbs:dead_house_5_bed",
+      "is_disabled": false,
+      "salt": 853719764,
+      "frequency": 0.58000004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_house_5_bed": 1
+      }
+    },
+    {
+      "spacing": 29,
+      "separation": 19,
+      "name": "mbs:dead_house_5_path",
+      "is_disabled": false,
+      "salt": 131479415,
+      "frequency": 0.58900005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_house_5_path": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:dead_log_tall_stumps",
+      "is_disabled": false,
+      "salt": 124577640,
+      "frequency": 0.58900005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_log_tall_stumps": 1
+      }
+    },
+    {
+      "spacing": 22,
+      "separation": 16,
+      "name": "mbs:dead_pine_cart1",
+      "is_disabled": false,
+      "salt": 204849178,
+      "frequency": 0.601,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_pine_cart1": 1
+      }
+    },
+    {
+      "spacing": 22,
+      "separation": 16,
+      "name": "mbs:dead_pine_cart_2",
+      "is_disabled": false,
+      "salt": 513347718,
+      "frequency": 0.60800004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_pine_cart_2": 1
+      }
+    },
+    {
+      "spacing": 19,
+      "separation": 13,
+      "name": "mbs:dead_tree",
+      "is_disabled": false,
+      "salt": 174434600,
+      "frequency": 0.55200005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_tree": 1
+      }
+    },
+    {
+      "spacing": 18,
+      "separation": 11,
+      "name": "mbs:dead_tree_patch",
+      "is_disabled": false,
+      "salt": 610351212,
+      "frequency": 0.586,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_tree_patch": 1
+      }
+    },
+    {
+      "spacing": 23,
+      "separation": 19,
+      "name": "mbs:dead_wood_cart",
+      "is_disabled": false,
+      "salt": 436910573,
+      "frequency": 0.59800005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_wood_cart": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 24,
+      "name": "mbs:dead_wood_church",
+      "is_disabled": false,
+      "salt": 692851412,
+      "frequency": 0.596,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_wood_church": 1
+      }
+    },
+    {
+      "spacing": 47,
+      "separation": 39,
+      "name": "mbs:dead_wood_ghost_train",
+      "is_disabled": false,
+      "salt": 384456145,
+      "frequency": 0.574,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_wood_ghost_train": 1
+      }
+    },
+    {
+      "spacing": 27,
+      "separation": 16,
+      "name": "mbs:dead_wood_lamp",
+      "is_disabled": false,
+      "salt": 212977225,
+      "frequency": 0.56200004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_wood_lamp": 1
+      }
+    },
+    {
+      "spacing": 18,
+      "separation": 11,
+      "name": "mbs:dead_wood_logs",
+      "is_disabled": false,
+      "salt": 835624765,
+      "frequency": 0.61700004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_wood_logs": 1
+      }
+    },
+    {
+      "spacing": 43,
+      "separation": 32,
+      "name": "mbs:dead_wood_smiths",
+      "is_disabled": false,
+      "salt": 628252316,
+      "frequency": 0.59400004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:dead_wood_smiths": 1
+      }
+    },
+    {
+      "spacing": 34,
+      "separation": 23,
+      "name": "mbs:desert_big_house_1",
+      "is_disabled": false,
+      "salt": 936635613,
+      "frequency": 0.628,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:desert_big_house_1": 1
+      }
+    },
+    {
+      "spacing": 19,
+      "separation": 6,
+      "name": "mbs:desert_campfire",
+      "is_disabled": false,
+      "salt": 332193718,
+      "frequency": 0.63900006,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:desert_campfire": 1
+      }
+    },
+    {
+      "spacing": 22,
+      "separation": 11,
+      "name": "mbs:desert_cart_1",
+      "is_disabled": false,
+      "salt": 856535439,
+      "frequency": 0.625,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:desert_cart_1": 1
+      }
+    },
+    {
+      "spacing": 19,
+      "separation": 17,
+      "name": "mbs:desert_gold_pile_with_land",
+      "is_disabled": false,
+      "salt": 340845554,
+      "frequency": 0.58900005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:desert_gold_pile_with_land": 1
+      }
+    },
+    {
+      "spacing": 27,
+      "separation": 17,
+      "name": "mbs:desert_pine_cart2",
+      "is_disabled": false,
+      "salt": 413503592,
+      "frequency": 0.49600002,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:desert_pine_cart2": 1
+      }
+    },
+    {
+      "spacing": 22,
+      "separation": 12,
+      "name": "mbs:emphyreal_wheat_patch",
+      "is_disabled": false,
+      "salt": 292524657,
+      "frequency": 0.587,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:emphyreal_wheat_patch": 1
+      }
+    },
+    {
+      "spacing": 24,
+      "separation": 10,
+      "name": "mbs:empyreal_well",
+      "is_disabled": false,
+      "salt": 460165402,
+      "frequency": 0.541,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:empyreal_well": 1
+      }
+    },
+    {
+      "spacing": 21,
+      "separation": 13,
+      "name": "mbs:fallen_dead_tree",
+      "is_disabled": false,
+      "salt": 353866764,
+      "frequency": 0.569,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:fallen_dead_tree": 1
+      }
+    },
+    {
+      "spacing": 23,
+      "separation": 11,
+      "name": "mbs:fir_well",
+      "is_disabled": false,
+      "salt": 848932333,
+      "frequency": 0.55200005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:fir_well": 1
+      }
+    },
+    {
+      "spacing": 11,
+      "separation": 6,
+      "name": "mbs:fire_camp_1",
+      "is_disabled": false,
+      "salt": 583817370,
+      "frequency": 0.54300004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:fire_camp_1": 1
+      }
+    },
+    {
+      "spacing": 8,
+      "separation": 3,
+      "name": "mbs:gateway_to_somewhere",
+      "is_disabled": false,
+      "salt": 439039511,
+      "frequency": 0.53800005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:gateway_to_somewhere": 1
+      }
+    },
+    {
+      "spacing": 17,
+      "separation": 12,
+      "name": "mbs:grave_yard",
+      "is_disabled": false,
+      "salt": 741920667,
+      "frequency": 0.59000003,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:grave_yard": 1
+      }
+    },
+    {
+      "spacing": 21,
+      "separation": 17,
+      "name": "mbs:hell_well",
+      "is_disabled": false,
+      "salt": 522132200,
+      "frequency": 0.53400004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:hell_well": 1
+      }
+    },
+    {
+      "spacing": 17,
+      "separation": 7,
+      "name": "mbs:hellbark_patch",
+      "is_disabled": false,
+      "salt": 571666491,
+      "frequency": 0.546,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:hellbark_patch": 1
+      }
+    },
+    {
+      "spacing": 26,
+      "separation": 21,
+      "name": "mbs:jacaranda_tree_wheat",
+      "is_disabled": false,
+      "salt": 650798208,
+      "frequency": 0.56200004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:jacaranda_tree_wheat": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:jacaranda_well_1",
+      "is_disabled": false,
+      "salt": 927442384,
+      "frequency": 0.555,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:jacaranda_well_1": 1
+      }
+    },
+    {
+      "spacing": 22,
+      "separation": 16,
+      "name": "mbs:jungle_campfire",
+      "is_disabled": false,
+      "salt": 528253592,
+      "frequency": 0.60300004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:jungle_campfire": 1
+      }
+    },
+    {
+      "spacing": 38,
+      "separation": 27,
+      "name": "mbs:jungle_gold_pile",
+      "is_disabled": false,
+      "salt": 450610016,
+      "frequency": 0.527,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:jungle_gold_pile": 1
+      }
+    },
+    {
+      "spacing": 42,
+      "separation": 22,
+      "name": "mbs:jungle_house_2",
+      "is_disabled": false,
+      "salt": 322146594,
+      "frequency": 0.546,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:jungle_house_2": 1
+      }
+    },
+    {
+      "spacing": 27,
+      "separation": 19,
+      "name": "mbs:jungle_pine_cart1",
+      "is_disabled": false,
+      "salt": 978120816,
+      "frequency": 0.586,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:jungle_pine_cart1": 1
+      }
+    },
+    {
+      "spacing": 12,
+      "separation": 8,
+      "name": "mbs:leafy_column",
+      "is_disabled": false,
+      "salt": 705888755,
+      "frequency": 0.55300003,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:leafy_column": 1
+      }
+    },
+    {
+      "spacing": 12,
+      "separation": 8,
+      "name": "mbs:leafy_fallen_branch",
+      "is_disabled": false,
+      "salt": 261323310,
+      "frequency": 0.574,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:leafy_fallen_branch": 1
+      }
+    },
+    {
+      "spacing": 19,
+      "separation": 15,
+      "name": "mbs:libraray",
+      "is_disabled": false,
+      "salt": 125179036,
+      "frequency": 0.605,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:libraray": 1
+      }
+    },
+    {
+      "spacing": 12,
+      "separation": 3,
+      "name": "mbs:lodestone_circle",
+      "is_disabled": false,
+      "salt": 829444705,
+      "frequency": 0.601,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:lodestone_circle": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_dead_log",
+      "is_disabled": false,
+      "salt": 951626083,
+      "frequency": 0.52000004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_dead_log": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_empyrial",
+      "is_disabled": false,
+      "salt": 471690801,
+      "frequency": 0.514,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_empyrial": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_fir",
+      "is_disabled": false,
+      "salt": 413973249,
+      "frequency": 0.59300005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_fir": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_hellbark",
+      "is_disabled": false,
+      "salt": 290942754,
+      "frequency": 0.535,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_hellbark": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_jacaranda",
+      "is_disabled": false,
+      "salt": 974310378,
+      "frequency": 0.565,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_jacaranda": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_magic",
+      "is_disabled": false,
+      "salt": 121487191,
+      "frequency": 0.53400004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_magic": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_mahogany",
+      "is_disabled": false,
+      "salt": 934334951,
+      "frequency": 0.569,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_mahogany": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_maple",
+      "is_disabled": false,
+      "salt": 673580136,
+      "frequency": 0.53400004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_maple": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_origin_oak",
+      "is_disabled": false,
+      "salt": 142843850,
+      "frequency": 0.527,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_origin_oak": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_palm",
+      "is_disabled": false,
+      "salt": 759365615,
+      "frequency": 0.545,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_palm": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_pine",
+      "is_disabled": false,
+      "salt": 641333646,
+      "frequency": 0.563,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_pine": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_redwood",
+      "is_disabled": false,
+      "salt": 179597776,
+      "frequency": 0.555,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_redwood": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_umbram",
+      "is_disabled": false,
+      "salt": 154952973,
+      "frequency": 0.521,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_umbram": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:log_pile_willow",
+      "is_disabled": false,
+      "salt": 656062274,
+      "frequency": 0.49400002,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:log_pile_willow": 1
+      }
+    },
+    {
+      "spacing": 12,
+      "separation": 3,
+      "name": "mbs:lonely_tower",
+      "is_disabled": false,
+      "salt": 525653861,
+      "frequency": 0.528,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:lonely_tower": 1
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 6,
+      "name": "mbs:lonely_well",
+      "is_disabled": false,
+      "salt": 965017386,
+      "frequency": 0.55300003,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:lonely_well": 1
+      }
+    },
+    {
+      "spacing": 19,
+      "separation": 13,
+      "name": "mbs:magic_tree_patch",
+      "is_disabled": false,
+      "salt": 166309355,
+      "frequency": 0.58400005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:magic_tree_patch": 1
+      }
+    },
+    {
+      "spacing": 20,
+      "separation": 10,
+      "name": "mbs:magic_well",
+      "is_disabled": false,
+      "salt": 815378165,
+      "frequency": 0.56200004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:magic_well": 1
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 19,
+      "name": "mbs:mahogany_leaves_patch",
+      "is_disabled": false,
+      "salt": 588382211,
+      "frequency": 0.59300005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:mahogany_leaves_patch": 1
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 16,
+      "name": "mbs:mahogany_well_1",
+      "is_disabled": false,
+      "salt": 488317212,
+      "frequency": 0.611,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:mahogany_well_1": 1
+      }
+    },
+    {
+      "spacing": 26,
+      "separation": 18,
+      "name": "mbs:mahogany_wheat_patch",
+      "is_disabled": false,
+      "salt": 106271470,
+      "frequency": 0.59300005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:mahogany_wheat_patch": 1
+      }
+    },
+    {
+      "spacing": 28,
+      "separation": 19,
+      "name": "mbs:maple_well",
+      "is_disabled": false,
+      "salt": 205071470,
+      "frequency": 0.57900006,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:maple_well": 1
+      }
+    },
+    {
+      "spacing": 14,
+      "separation": 9,
+      "name": "mbs:mini_watch_tower",
+      "is_disabled": false,
+      "salt": 814306562,
+      "frequency": 0.563,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:mini_watch_tower": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:orange_maple_patch",
+      "is_disabled": false,
+      "salt": 105755912,
+      "frequency": 0.591,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:orange_maple_patch": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:pine_tree",
+      "is_disabled": false,
+      "salt": 842019392,
+      "frequency": 0.69600004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:pine_tree": 1
+      }
+    },
+    {
+      "spacing": 27,
+      "separation": 18,
+      "name": "mbs:pine_well",
+      "is_disabled": false,
+      "salt": 289915677,
+      "frequency": 0.66700006,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:pine_well": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:pine_wheat_patch",
+      "is_disabled": false,
+      "salt": 209296476,
+      "frequency": 0.66300005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:pine_wheat_patch": 1
+      }
+    },
+    {
+      "spacing": 14,
+      "separation": 11,
+      "name": "mbs:pirate_stash_1",
+      "is_disabled": false,
+      "salt": 635860034,
+      "frequency": 0.62100005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:pirate_stash_1": 1
+      }
+    },
+    {
+      "spacing": 19,
+      "separation": 13,
+      "name": "mbs:plainsandgrass_campfire",
+      "is_disabled": false,
+      "salt": 561696222,
+      "frequency": 0.62100005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:plainsandgrass_campfire": 1
+      }
+    },
+    {
+      "spacing": 28,
+      "separation": 17,
+      "name": "mbs:plainsandgrass_gold_pile",
+      "is_disabled": false,
+      "salt": 130373503,
+      "frequency": 0.67300004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:plainsandgrass_gold_pile": 1
+      }
+    },
+    {
+      "spacing": 44,
+      "separation": 34,
+      "name": "mbs:plainsandgrass_house_2",
+      "is_disabled": false,
+      "salt": 823172027,
+      "frequency": 0.634,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:plainsandgrass_house_2": 1
+      }
+    },
+    {
+      "spacing": 26,
+      "separation": 16,
+      "name": "mbs:plainsandgrass_pine_cart",
+      "is_disabled": false,
+      "salt": 505105110,
+      "frequency": 0.58900005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:plainsandgrass_pine_cart": 1
+      }
+    },
+    {
+      "spacing": 29,
+      "separation": 19,
+      "name": "mbs:plainsandgrass_pine_cart_2",
+      "is_disabled": false,
+      "salt": 520319397,
+      "frequency": 0.61800003,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:plainsandgrass_pine_cart_2": 1
+      }
+    },
+    {
+      "spacing": 24,
+      "separation": 14,
+      "name": "mbs:redwood_leaves_patch",
+      "is_disabled": false,
+      "salt": 834977740,
+      "frequency": 0.58000004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:redwood_leaves_patch": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:rock_pile",
+      "is_disabled": false,
+      "salt": 645864810,
+      "frequency": 0.82500005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:rock_pile": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:sacrafice_grounds",
+      "is_disabled": false,
+      "salt": 522935479,
+      "frequency": 0.59400004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:sacrafice_grounds": 1
+      }
+    },
+    {
+      "spacing": 8,
+      "separation": 3,
+      "name": "mbs:stable",
+      "is_disabled": false,
+      "salt": 263106040,
+      "frequency": 0.393,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:stable": 1
+      }
+    },
+    {
+      "spacing": 8,
+      "separation": 3,
+      "name": "mbs:stone_archway",
+      "is_disabled": false,
+      "salt": 392267547,
+      "frequency": 0.51500005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:stone_archway": 1
+      }
+    },
+    {
+      "spacing": 11,
+      "separation": 7,
+      "name": "mbs:stone_pillar",
+      "is_disabled": false,
+      "salt": 144376519,
+      "frequency": 0.555,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:stone_pillar": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:umbram_leaves_patch",
+      "is_disabled": false,
+      "salt": 261516890,
+      "frequency": 0.503,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:umbram_leaves_patch": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:umbran_lamp",
+      "is_disabled": false,
+      "salt": 833417921,
+      "frequency": 0.51000005,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:umbran_lamp": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mbs:umbran_well",
+      "is_disabled": false,
+      "salt": 666966961,
+      "frequency": 0.517,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:umbran_well": 1
+      }
+    },
+    {
+      "spacing": 14,
+      "separation": 11,
+      "name": "mbs:watch_tower",
+      "is_disabled": false,
+      "salt": 402626140,
+      "frequency": 0.52900004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:watch_tower": 1
+      }
+    },
+    {
+      "spacing": 8,
+      "separation": 3,
+      "name": "mbs:wheat_feild_tall_1",
+      "is_disabled": false,
+      "salt": 863142240,
+      "frequency": 0.546,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mbs:wheat_feild_tall_1": 1
+      }
+    },
+    {
+      "spacing": 26,
+      "separation": 16,
+      "name": "mvs:acacia_log_pile",
+      "is_disabled": false,
+      "salt": 503002547,
+      "frequency": 0.64500004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mvs:acacia_log_pile": 1
+      }
+    },
+    {
+      "spacing": 18,
+      "separation": 13,
+      "name": "mvs:acacia_tree",
+      "is_disabled": false,
+      "salt": 433547658,
+      "frequency": 0.569,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mvs:acacia_tree": 1
+      }
+    },
+    {
+      "spacing": 35,
+      "separation": 31,
+      "name": "mvs:azelea_house",
+      "is_disabled": false,
+      "salt": 433252558,
+      "frequency": 0.643,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mvs:azelea_house": 1
+      }
+    }
+  ],
+  "structure_template_pools": []
+}

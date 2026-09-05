@@ -1,0 +1,13 @@
+name = "Bartering Station"
+filename = "BarteringStation-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a75b21a14b817e1a169427f3080d510b4e55355f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8013744
+project-id = 666940

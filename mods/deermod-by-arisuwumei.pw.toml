@@ -1,0 +1,13 @@
+name = "Deer Mod by ArisuwuMei"
+filename = "deermod-neoforge-0.7.0+26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ecd635972334515c9a1921f5ba3ab41c91b4a74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8219168
+project-id = 1220048

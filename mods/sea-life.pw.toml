@@ -1,0 +1,13 @@
+name = "Sea Life"
+filename = "SeaLife-v26.1.1-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48c84ccd4412550f0f085b091cdc2e14e9376ef8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8009248
+project-id = 1370259

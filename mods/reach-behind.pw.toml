@@ -1,0 +1,13 @@
+name = "Reach Behind"
+filename = "ReachBehind-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b45fcd8bc1dc9e4aa2571570d61debbb4f386e1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8236263
+project-id = 1572990

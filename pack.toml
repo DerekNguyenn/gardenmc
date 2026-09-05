@@ -1,0 +1,12 @@
+name = "BMC6"
+version = "v3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5dbf47687c124e8ec864f9d730875f3a39fef71dd372b0fcd15876428826bedd"
+
+[versions]
+minecraft = "26.1.2"
+neoforge = "26.1.2.97"

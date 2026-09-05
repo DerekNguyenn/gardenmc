@@ -1,0 +1,13 @@
+name = "Countered's Smooth Steps"
+filename = "Smooth Steps v1.2.0-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e7e7251d6b0f2d5176dbec8cfe6780d552044c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8534660
+project-id = 1510451

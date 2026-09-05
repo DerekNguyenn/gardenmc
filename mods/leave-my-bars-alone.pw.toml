@@ -1,0 +1,13 @@
+name = "Leave My Bars Alone"
+filename = "LeaveMyBarsAlone-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "450c8f39c851cef5b8cc5985190b0e67408920ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8004701
+project-id = 281715

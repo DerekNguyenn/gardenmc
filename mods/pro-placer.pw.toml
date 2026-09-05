@@ -1,0 +1,13 @@
+name = "Pro Placer"
+filename = "ProPlacer-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "254d32837cb081d9fc20db026c5d21ce39f05000"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7987094
+project-id = 368320

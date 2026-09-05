@@ -1,0 +1,13 @@
+name = "Climate Rivers"
+filename = "ClimateRivers-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9b8f7fc11d88ecb91fda4a6a1576775e636bee9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8013524
+project-id = 1255421

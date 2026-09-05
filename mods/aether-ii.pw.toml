@@ -1,0 +1,13 @@
+name = "The Aether II"
+filename = "aether_ii-26.1.2-alpha.4.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c587c4b1448ddd2698851868ec101f323ede4087"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8502033
+project-id = 223796

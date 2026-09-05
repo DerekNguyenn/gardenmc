@@ -1,0 +1,13 @@
+name = "Resource Pack Overrides"
+filename = "ResourcePackOverrides-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12b27406feef57e3dd66a24dea690bbb80284a04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7954520
+project-id = 832644

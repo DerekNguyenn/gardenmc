@@ -1,0 +1,13 @@
+name = "Corpse"
+filename = "corpse-neoforge-1.1.16+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "708c7bb16d9d8bd5241a32cd09a58bd93127d952"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7904678
+project-id = 316582

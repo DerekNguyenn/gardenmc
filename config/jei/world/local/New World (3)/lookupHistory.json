@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"betterarcheology:vase_creeper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:vase"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:torrent_totem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:diamond_brush"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:archeology_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:creeper_fossil_head"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:artifact_shards"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:unidentified_artifact"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:radiance_totem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterarcheology:growth_totem"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
