@@ -2352,7 +2352,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "f6966f01757d2a20fbe0284e06d9e37d89bcd8da62eacce859c985a5b3115842"
+hash = "eb8caa143023cd8e8ff9cc11510a6d84291f7899446231b57d1dc80f73cdd365"
 metafile = true
 
 [[files]]
