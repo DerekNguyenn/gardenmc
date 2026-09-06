@@ -1886,11 +1886,6 @@ hash = "0716ede436bbfa6f889fa17c73f93f29e6e3e48a7dff5e02f689f8d29e1ad790"
 metafile = true
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-neoforge.pw.toml"
-hash = "2dd89dadac4f94f6f567d4948eef1f3af2cda80fac36ad68747717266016cf07"
-metafile = true
-
-[[files]]
 file = "mods/blahaj-replushed.pw.toml"
 hash = "0e2905c2902598cc102651f9212de7dd2b17710c1437832348dc884fe115bf54"
 metafile = true
@@ -1898,11 +1893,6 @@ metafile = true
 [[files]]
 file = "mods/block-runner.pw.toml"
 hash = "eb16142adc70a313cb70ab751c55db352edcf95a7d06c867ee28a2ff587cf8dc"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "c74ff423cd2f9bc5b0c34ea081e024fa766b4b0914f6f2ce40789a5f82b00e0e"
 metafile = true
 
 [[files]]

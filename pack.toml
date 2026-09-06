@@ -1,11 +1,11 @@
 name = "Garden MC [BMC6 Fork]"
-version = "v1.1"
+version = "v1.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c405a9dd4a45665f43faf0e6bc0854233338ac89b78e86be97b4d8f4f015f074"
+hash = "fe4ed443e3da82e3200f876d2684012b96253dc415c5ab762ac656639552b900"
 
 [versions]
 minecraft = "26.1.2"
