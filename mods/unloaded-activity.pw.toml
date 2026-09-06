@@ -1,0 +1,13 @@
+name = "Unloaded Activity"
+filename = "unloadedactivity-0.7.0+mc26.1.x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oo4rJCDP/versions/RDUinUgR/unloadedactivity-0.7.0%2Bmc26.1.x.jar"
+hash-format = "sha512"
+hash = "f499aaf42d3472276aa8574395bff3704b5d5d83aef147afbca8a5e818cf53b8249339e7ccfebe34df5e0a427a16bef18ca3fd35ffd830737bc23b31f8d66ac3"
+
+[update]
+[update.modrinth]
+mod-id = "Oo4rJCDP"
+version = "RDUinUgR"
