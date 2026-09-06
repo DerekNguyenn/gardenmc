@@ -2606,11 +2606,6 @@ hash = "cfd4e805883aea74f671554c73a03cd1573db18159d1378628f3241e37777a05"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "753f1494c2a18bddcfef4863a1de7acb2218726c28ea849ca02e8f648ea78348"
-metafile = true
-
-[[files]]
 file = "mods/open-together.pw.toml"
 hash = "05e80f36b0e4322e83f157fb422f037f4803488a28b2de32b8f45bf861c6fe32"
 metafile = true
