@@ -1,0 +1,13 @@
+name = "Almanac"
+filename = "almanac-1.26.x-neoforge-1.6.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gi02250Z/versions/YAS6I3UB/almanac-1.26.x-neoforge-1.6.2.jar"
+hash-format = "sha512"
+hash = "c9794a85fa1cff8bd39c8f5e36c9bcb1e96ae10893b8e2acb17d710e3a63cf20555ece3bcff48829ac9c5961660ea5e6342db1ce22989cb4be7b3db2e9d02977"
+
+[update]
+[update.modrinth]
+mod-id = "Gi02250Z"
+version = "YAS6I3UB"
