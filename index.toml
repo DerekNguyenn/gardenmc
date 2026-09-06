@@ -1781,6 +1781,11 @@ hash = "f1e4c4a492c53e698c6a87d851d76af118b5fe8cd0de249dc2dcefa565bb3177"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "ee4e99a56e89e1a0cb3ee8561f4ba70d66d417773e7f78aef91c7f63b98b1280"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "306d66ce500783b2d235eea372be4047de1a979f3b3967a0de67f9aa2fe30487"
 metafile = true
@@ -1808,6 +1813,11 @@ metafile = true
 [[files]]
 file = "mods/armor-hider.pw.toml"
 hash = "52d227d96cde1dc8aec9656d47ce9f1f694cac36edc3dac266d1e46d19584638"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "951576bb907e5c508d9d6b91dec55611170cf0cde3ed4cf53780d740334e0862"
 metafile = true
 
 [[files]]
@@ -2421,6 +2431,11 @@ hash = "953cabc79ab3999d5cdfa4cbbafc86e4888356e097dfc249f000711b25f5d3fa"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "0e7ff70906fef03bb62e691ad881a4e8b26b3815e14db4bb389b862483c434d6"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations-dungeon-crawl.pw.toml"
 hash = "d1ff2121c727ec01db3352aa00038ce31e850e79b74a438dd25ae2caac1edc6e"
 metafile = true
@@ -2596,6 +2611,11 @@ hash = "cfd4e805883aea74f671554c73a03cd1573db18159d1378628f3241e37777a05"
 metafile = true
 
 [[files]]
+file = "mods/obe.pw.toml"
+hash = "c21b1acf711f4ab9377ce5c1414eb4bfba7db7e624cea2f81543b088f8c80bf0"
+metafile = true
+
+[[files]]
 file = "mods/open-together.pw.toml"
 hash = "05e80f36b0e4322e83f157fb422f037f4803488a28b2de32b8f45bf861c6fe32"
 metafile = true
@@ -2752,7 +2772,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "624ba40aea06b451d8867b04ba3f0b2d174c11afa24d4a6acd278d2b2377493c"
+hash = "4549493e7de134a7db148322f98627ace363852567b88b0b290db93f68748cc6"
 metafile = true
 
 [[files]]
@@ -2878,6 +2898,11 @@ metafile = true
 [[files]]
 file = "mods/underground-worlds.pw.toml"
 hash = "4b48a93dd41515ead4452e240867cb9580e379b88e425c7d8171d6112058dd2f"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "2e523936239c7959c357e0b872b34bb285e4110d1f5ed46baf69b73313ba2231"
 metafile = true
 
 [[files]]
