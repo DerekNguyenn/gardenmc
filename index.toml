@@ -2901,11 +2901,6 @@ hash = "4b48a93dd41515ead4452e240867cb9580e379b88e425c7d8171d6112058dd2f"
 metafile = true
 
 [[files]]
-file = "mods/unloaded-activity.pw.toml"
-hash = "2e523936239c7959c357e0b872b34bb285e4110d1f5ed46baf69b73313ba2231"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
 hash = "8d43ef6d5520e1801d75562f329668215cf3a523ec5fc360bf3a5f138fe6ec41"
 metafile = true
