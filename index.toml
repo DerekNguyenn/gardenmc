@@ -2791,11 +2791,6 @@ hash = "19e1493fa6cc9934ac337b1a511a507f486992996c112ef7e654180c6a29f276"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-jei-index.pw.toml"
-hash = "8871707d67f48c1ec22c0f7cbdfd50840015b8226d1933c3e31ac88a58b944b9"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
 hash = "53b80bb8e158ff63489017697d703e9e178ab57167bea5559f006cef158f7bcb"
 metafile = true
